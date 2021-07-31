@@ -3,8 +3,8 @@ def solution(row, column):
     row and column values
 
     Args:
-        row ([int]): [description]
-        column ([int]): [description]
+        row ([int]): [row size of the matrix]
+        column ([int]): [column size of the matrix]
     """
     dash = '-'
     special_char = '.|.'
